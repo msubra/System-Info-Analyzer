@@ -1,0 +1,91 @@
+Line 15: Class MSComctlLib.ProgressBar of control Bar was not a loaded control class.
+Line 44: Class ShellLinkLib.ShellLink of control lnk was not a loaded control class.
+Line 52: Class System.XPButton of control List was not a loaded control class.
+Line 75: Class System.XPButton of control List was not a loaded control class.
+Line 97: Class System.XPButton of control List was not a loaded control class.
+Line 120: Class System.XPButton of control List was not a loaded control class.
+Line 141: Class System.XPButton of control List was not a loaded control class.
+Line 163: Class System.XPButton of control StopProcess was not a loaded control class.
+Line 184: Class System.XPButton of control ShutDown was not a loaded control class.
+Line 207: Class MSComctlLib.ListView of control View was not a loaded control class.
+Line 251: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 273: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 21: The property name _ExtentX in Bar is invalid.
+Line 22: The property name _ExtentY in Bar is invalid.
+Line 23: The property name _Version in Bar is invalid.
+Line 25: The property name Scrolling in Bar is invalid.
+Line 47: The property name _Version in lnk is invalid.
+Line 48: The property name _ExtentX in lnk is invalid.
+Line 49: The property name _ExtentY in lnk is invalid.
+Line 50: The property name _StockProps in lnk is invalid.
+Line 59: The property name _ExtentX in List is invalid.
+Line 60: The property name _ExtentY in List is invalid.
+Line 70: The property name Caption in List is invalid.
+Line 72: The property name IsPressed in List is invalid.
+Line 73: The property name PictureAlignH in List is invalid.
+Line 52: Property Picture in List could not be set.
+Line 82: The property name _ExtentX in List is invalid.
+Line 83: The property name _ExtentY in List is invalid.
+Line 93: The property name Caption in List is invalid.
+Line 94: The property name IsPressed in List is invalid.
+Line 95: The property name PictureAlignH in List is invalid.
+Line 104: The property name _ExtentX in List is invalid.
+Line 105: The property name _ExtentY in List is invalid.
+Line 115: The property name Caption in List is invalid.
+Line 117: The property name IsPressed in List is invalid.
+Line 118: The property name PictureAlignH in List is invalid.
+Line 97: Property Picture in List could not be set.
+Line 127: The property name _ExtentX in List is invalid.
+Line 128: The property name _ExtentY in List is invalid.
+Line 138: The property name Caption in List is invalid.
+Line 139: The property name IsPressed in List is invalid.
+Line 148: The property name _ExtentX in List is invalid.
+Line 149: The property name _ExtentY in List is invalid.
+Line 159: The property name Caption in List is invalid.
+Line 160: The property name IsPressed in List is invalid.
+Line 161: The property name PictureAlignH in List is invalid.
+Line 169: The property name _ExtentX in StopProcess is invalid.
+Line 170: The property name _ExtentY in StopProcess is invalid.
+Line 180: The property name Caption in StopProcess is invalid.
+Line 182: The property name IsPressed in StopProcess is invalid.
+Line 190: The property name _ExtentX in ShutDown is invalid.
+Line 191: The property name _ExtentY in ShutDown is invalid.
+Line 201: The property name Caption in ShutDown is invalid.
+Line 203: The property name IsPressed in ShutDown is invalid.
+Line 204: The property name PictureAlignH in ShutDown is invalid.
+Line 184: Property Picture in ShutDown could not be set.
+Line 214: The property name _ExtentX in View is invalid.
+Line 215: The property name _ExtentY in View is invalid.
+Line 216: The property name View in View is invalid.
+Line 217: The property name Arrange in View is invalid.
+Line 218: The property name LabelEdit in View is invalid.
+Line 219: The property name SortOrder in View is invalid.
+Line 220: The property name Sorted in View is invalid.
+Line 221: The property name MultiSelect in View is invalid.
+Line 222: The property name LabelWrap in View is invalid.
+Line 223: The property name HideSelection in View is invalid.
+Line 224: The property name AllowReorder in View is invalid.
+Line 225: The property name FullRowSelect in View is invalid.
+Line 226: The property name GridLines in View is invalid.
+Line 227: The property name TextBackground in View is invalid.
+Line 228: The property name _Version in View is invalid.
+Line 229: The property name Icons in View is invalid.
+Line 230: The property name SmallIcons in View is invalid.
+Line 235: The property name NumItems in View is invalid.
+Line 239: The property name ColumnHeader(1) in View is invalid.
+Line 244: The property name ColumnHeader(2) in View is invalid.
+Line 249: The property name ColumnHeader(3) in View is invalid.
+Line 254: The property name _ExtentX in ImageList1 is invalid.
+Line 255: The property name _ExtentY in ImageList1 is invalid.
+Line 257: The property name ImageWidth in ImageList1 is invalid.
+Line 258: The property name ImageHeight in ImageList1 is invalid.
+Line 259: The property name MaskColor in ImageList1 is invalid.
+Line 260: The property name _Version in ImageList1 is invalid.
+Line 271: The property name Images in ImageList1 is invalid.
+Line 276: The property name _ExtentX in ImageList2 is invalid.
+Line 277: The property name _ExtentY in ImageList2 is invalid.
+Line 279: The property name ImageWidth in ImageList2 is invalid.
+Line 280: The property name ImageHeight in ImageList2 is invalid.
+Line 281: The property name MaskColor in ImageList2 is invalid.
+Line 282: The property name _Version in ImageList2 is invalid.
+Line 293: The property name Images in ImageList2 is invalid.

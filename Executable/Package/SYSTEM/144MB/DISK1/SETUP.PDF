@@ -1,0 +1,40 @@
+[PDF]
+Version=1.0
+
+[Package Definition]
+Product=System
+Version=1.0.0
+Comment=System
+SetupVariations=Automated, Manual, Uninstall
+
+[Automated Setup]
+CommandLine=SETUP.EXE -s -sms -m
+CommandName=Automated
+UserInputRequired=FALSE
+SupportedPlatforms=Windows95, Windows NT (x86)
+
+[Manual Setup]
+CommandLine=SETUP.EXE
+CommandName=Manual
+UserInputRequired=TRUE
+SupportedPlatforms=Windows95, Windows NT (x86)
+
+[Uninstall Setup]
+CommandLine=UNSTUB.EXE "System"
+CommandName=Uninstall
+UserInputRequired=FALSE
+SupportedPlatforms=Windows95
+
+[Setup Package for Sharing]
+ShareName=Systesh
+ShareAccess=UserRead, UserWrite, GuestRead, GuestWrite
+
+[Program Item Properties 1]
+CommandLine=System.exe
+Description=System
+ConfigurationScript=setup.exe -s -sms
+RunMinimized=FALSE
+RunLocalCopylfPresent=FALSE
+DriveMode=UNC
+SupportedPlatforms=Windows95
+DisplayIconInProgGroup=TRUE

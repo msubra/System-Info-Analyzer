@@ -1,0 +1,218 @@
+
+[InstallShield Wizard]
+iDate=0
+iTime=0
+Flag=f6000000
+ISX.EXE Size=658944
+ISX.EXE Date=11:02:20AM  11/14/1998
+ISX.EXE Ver=2.1.1.3
+SETUP.EXE Size=45312
+SETUP.EXE Date=3:21:02PM  10/1/1998
+SETUP.EXE Ver=3.0.111.0
+SETUP.INS Size=70547
+SETUP.INS Date=4:49:22PM  11/12/1998
+SETUP.INS Ver=Not available
+_INST16.EX_ Size=282766
+_INST16.EX_ Date=3:20:56PM  10/1/1998
+_INST16.EX_ Ver=Not available
+_INST32I.EX_ Size=320411
+_INST32I.EX_ Date=3:20:56PM  10/1/1998
+_INST32I.EX_ Ver=Not available
+ISDEPEND.INI Size=320411
+ISDEPEND.INI Date=3:20:56PM  10/1/1998
+ISDEPEND.INI Ver=Not available
+SWDEPEND.INI Size=320411
+SWDEPEND.INI Date=3:20:56PM  10/1/1998
+SWDEPEND.INI Ver=Not available
+ICOMP.EXE Size=119808
+ICOMP.EXE Date=3:21:00PM  10/1/1998
+ICOMP.EXE Ver=3.00.062
+SPLIT.EXE Size=90624
+SPLIT.EXE Date=3:21:02PM  10/1/1998
+SPLIT.EXE Ver=3.00.060
+PACKLIST.EXE Size=87552
+PACKLIST.EXE Date=3:21:00PM  10/1/1998
+PACKLIST.EXE Ver=3.00.060
+Version=2.11
+DevTool=for Visual Basic 6.0
+Platform=Win32
+DisksBuilt=1
+DisksDir=SYSTEM\144MB\
+TabsVisit=11111111100000011
+LangNum=451
+LangDir=LANG\ENG\
+
+[VisualDesign]
+AppName=System
+AppExe=[Program Files]\System.exe
+AppExeFile=D:\VB\System\Executable\System.exe
+Version=1.0.0
+Company=MicroLogic
+Title=System
+TitleType=1
+BackgrndBmp=
+BackgrndAlign=4
+Backgrnd=1
+BackgrndColor=10
+Uninstall=1
+Silent=1
+SmsMode=1
+
+[Types]
+Types=3
+Type1Components=3
+Type1Name=Custom
+Type1ComponentList=1 2 3 
+Type2Components=3
+Type2Name=Typical
+Type2ComponentList=1 2 3 
+Type3Components=2
+Type3Name=Compact
+Type3ComponentList=1 2 
+
+[Components]
+Components=3
+Component1Groups=1
+Component1Name=Application Files
+Component1Description=Application files needed to run the application
+Component1GroupList=1 
+Component2Groups=1
+Component2Name=Help and Tutorial Files
+Component2Description=Help and tutorial needed for online help
+Component2GroupList=2 
+Component3Groups=1
+Component3Name=Sample Files
+Component3Description=Sample data files
+Component3GroupList=3 
+
+[Groups]
+Groups=4
+Group1Size=884736
+Group1Files=1
+Group1Name=Program Files
+Group1Dir=<INSTALLDIR>
+Group1Update=0
+Group1TargetOS=-1
+Group1File1=D:\VB\System\Executable\System.exe
+Group2Size=0
+Group2Files=0
+Group2Name=Help Files
+Group2Dir=<INSTALLDIR>\HELP
+Group2Update=0
+Group2TargetOS=-1
+Group3Size=0
+Group3Files=0
+Group3Name=Sample Files
+Group3Dir=<INSTALLDIR>\SAMPLES
+Group3Update=0
+Group3TargetOS=-1
+Group4Size=3405056
+Group4Files=7
+Group4Auto=2
+Group4ID=38802
+Group4Name=System Files - WinSysDir
+Group4Dir=<WINSYSDIR>
+Group4Update=-1
+Group4TargetOS=-1
+Group4File1=C:\WINDOWS\SYSTEM\MSVBVM60.DLL
+Group4File1Auto=2
+Group4File1Reg=1
+Group4File2=C:\WINDOWS\SYSTEM\STDOLE2.TLB
+Group4File2Auto=2
+Group4File2Reg=1
+Group4File3=C:\WINDOWS\SYSTEM\OLEAUT32.DLL
+Group4File3Auto=2
+Group4File3Reg=1
+Group4File4=C:\WINDOWS\SYSTEM\OLEPRO32.DLL
+Group4File4Auto=2
+Group4File4Reg=1
+Group4File5=C:\WINDOWS\SYSTEM\ASYCFILT.DLL
+Group4File5Auto=2
+Group4File6=C:\WINDOWS\SYSTEM\MSCOMCTL.OCX
+Group4File6Auto=237
+Group4File6Reg=1
+Group4File7=C:\PROGRAM FILES\INSTALLSHIELD\INSTALLSHIELD EXPRESS 2.11\redist\COMCAT.DLL
+Group4File7Auto=237
+Group4File7Reg=1
+Group4Reg=1
+
+[Sequence]
+DestinationLocationDir=<ProgramFilesDir>\Home\Disk
+SelectProgramFolderName=System
+WelcomeMessage=1
+WelcomeMessageFile=
+UserInformation=1
+DestinationLocation=1
+SetupType=1
+CustomSetup=1
+CustomSetupGroupSel=1
+SelectProgramFolder=1
+BeginFileTransfer=1
+ProgressBar=1
+Billboards=1
+BillboardsFile=C:\PROGRA~1\INSTAL~2\INSTAL~1.11\Redist\
+SetupComplete=1
+SetupCompleteExec=[Program Files]\System.exe
+SetupCompleteExecParam=
+SetupCompleteExecReadme=
+
+[RegEntries]
+Reg1Path=HKEY_CLASSES_ROOT
+Reg1Val1Type=0
+Reg1Val1Name=(Default)
+Reg1Val1Data=(value not set)
+Reg1Vals=1
+Reg2Path=HKEY_CURRENT_USER
+Reg2Val1Type=0
+Reg2Val1Name=(Default)
+Reg2Val1Data=(value not set)
+Reg2Vals=1
+Reg3Path=HKEY_LOCAL_MACHINE
+Reg3Val1Type=0
+Reg3Val1Name=(Default)
+Reg3Val1Data=(value not set)
+Reg3Vals=1
+Reg4Path=HKEY_USERS
+Reg4Val1Type=0
+Reg4Val1Name=(Default)
+Reg4Val1Data=(value not set)
+Reg4Vals=1
+Reg5Path=HKEY_CURRENT_CONFIG
+Reg5Val1Type=0
+Reg5Val1Name=(Default)
+Reg5Val1Data=(value not set)
+Reg5Vals=1
+Reg6Path=HKEY_DYN_DATA
+Reg6Val1Type=0
+Reg6Val1Name=(Default)
+Reg6Val1Data=(value not set)
+Reg6Vals=1
+Regs=6
+
+[Registry]
+
+[Icons]
+Icons=1
+Icon1Param=
+Icon1Cmd=[Program Files]\System.exe
+Icon1Description=System
+Icon1WorkingDir=[Program Files]
+Icon1IconFile=
+Icon1RealFile=D:\VB\System\Executable\System.exe
+Icon1WhichIcon=0
+Icon1KeyVirtual=0
+Icon1KeyFlags=0
+Icon1StartMenu=0
+Icon1Window=0
+
+[Autoexec]
+PathDir=
+ShareLocks=
+ShareFiles=
+Command=
+
+[CopyToFloppy]
+DriveOption=
+DestinationPath=
+DestinationPathOneFile=
+Password=
